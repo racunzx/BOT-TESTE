@@ -19,3 +19,5 @@ Para editar o BOT TESTE /root/BOT/botssh
 
 
 ![logo](https://github.com/NT-GIT-HUB/BOT-TESTE/blob/main/home.png)
+
+....
